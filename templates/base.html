@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}SQLi Demo{% endblock %} — SQLi Detection &amp; Prevention Framework</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="brand">
+    <span class="brand-icon">🛡️</span>
+    <span class="brand-title">SQLi Detection Framework</span>
+  </div>
+  <div class="nav-links">
+    {% if current_user.is_authenticated %}
+      <a href="{{ url_for('profile.profile') }}" class="nav-link">Profile</a>
+      <a href="{{ url_for('profile.search') }}" class="nav-link">Search Demo</a>
+      <a href="{{ url_for('scanner.scanner') }}" class="nav-link">Code Scanner</a>
+      {% if current_user.role == 'admin' %}
+        <a href="{{ url_for('admin.dashboard') }}" class="nav-link">Admin Dashboard</a>
+        <a href="{{ url_for('admin.metrics') }}" class="nav-link">ML Metrics</a>
+      {% endif %}
+      <a href="{{ url_for('auth.logout') }}" class="nav-link nav-logout">Logout ({{ current_user.username }})</a>
+    {% else %}
+      <a href="{{ url_for('auth.login') }}" class="nav-link">Login</a>
+      <a href="{{ url_for('auth.register') }}" class="nav-link">Register</a>
+    {% endif %}
+  </div>
+</nav>
+
+<main class="container">
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% for category, message in messages %}
+      <div class="alert alert-{{ category }}">{{ message }}</div>
+    {% endfor %}
+  {% endwith %}
+
+  {% block content %}{% endblock %}
+</main>
+
+<footer class="footer">
+  <p>SQL Injection Detection &amp; Prevention Framework — Multi-Layer Defense Demo (College Project)</p>
+</footer>
+
+{% block scripts %}{% endblock %}
+</body>
+</html>

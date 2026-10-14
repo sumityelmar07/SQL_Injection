@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}Admin Dashboard{% endblock %}
+
+{% block content %}
+<h2>Admin Dashboard</h2>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="stat-value">{{ stats.total }}</div>
+    <div class="stat-label">Total Events Logged</div>
+  </div>
+  <div class="stat-card warning">
+    <div class="stat-value">{{ stats.suspicious }}</div>
+    <div class="stat-label">Suspicious (Logged, Not Blocked)</div>
+  </div>
+  <div class="stat-card danger">
+    <div class="stat-value">{{ stats.blocked }}</div>
+    <div class="stat-label">Blocked Attacks</div>
+  </div>
+</div>
+
+<div class="charts-row">
+  <div class="chart-box">
+    <h3>Events by Endpoint</h3>
+    <canvas id="endpointChart"></canvas>
+  </div>
+  <div class="chart-box">
+    <h3>Decision Distribution</h3>
+    <canvas id="decisionChart"></canvas>
+  </div>
+</div>
+
+<div class="card">
+  <h3>Recent Attack Log <small>(last 200)</small></h3>
+  <div class="table-scroll">
+    <table class="data-table small">
+      <thead>
+        <tr>
+          <th>Time</th><th>IP</th><th>Endpoint</th>
+          <th>Risk</th><th>Anomaly</th><th>ML%</th><th>Decision</th><th>Signature</th><th>Input (truncated)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in logs %}
+        <tr class="row-{{ row['decision'] | lower }}">
+          <td>{{ row['timestamp'] }}</td>
+          <td>{{ row['source_ip'] }}</td>
+          <td>{{ row['endpoint'] }}</td>
+          <td>{{ row['risk_score'] }}</td>
+          <td>{{ (row['anomaly_score'] or 0) | int }}</td>
+          <td>{{ ((row['ml_score'] or 0) * 100) | round | int }}%</td>
+          <td><span class="badge badge-{{ row['decision'] | lower }}">{{ row['decision'] }}</span></td>
+          <td>
+            {% set hits = row['signature_hit'] | parse_sig_hits %}
+            {% if hits %}
+              {% for h in hits %}<span class="badge badge-sig">{{ h }}</span> {% endfor %}
+            {% else %}—{% endif %}
+          </td>
+          <td><code>{{ (row['raw_input'] or '')[:60] }}</code></td>
+        </tr>
+        {% else %}
+        <tr><td colspan="9">No events recorded yet.</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="admin-actions">
+  <form method="post" action="{{ url_for('admin.clear_log') }}"
+        onsubmit="return confirm('Delete all log entries older than 7 days?');"
+        style="display:inline;">
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+    <button type="submit" class="btn btn-danger">Clear Logs &gt; 7 Days Old</button>
+  </form>
+  <a href="{{ url_for('admin.metrics') }}" class="btn btn-secondary">View ML Metrics</a>
+  <a href="{{ url_for('profile.search') }}" class="btn btn-secondary">Test Search Demo</a>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+<script>
+  initCharts({{ stats_json | safe }});
+</script>
+{% endblock %}

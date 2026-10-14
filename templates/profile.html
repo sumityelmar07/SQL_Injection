@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Profile{% endblock %}
+
+{% block content %}
+<div class="card">
+  <h2>Welcome, {{ user.username }}</h2>
+  <table class="info-table">
+    <tr><th>Username</th><td>{{ user.username }}</td></tr>
+    <tr><th>Email</th>   <td>{{ user.email }}</td></tr>
+    <tr><th>Role</th>    <td><span class="badge badge-{{ user.role }}">{{ user.role }}</span></td></tr>
+  </table>
+  <a href="{{ url_for('profile.search') }}" class="btn btn-secondary" style="margin-top:1rem;">
+    Try the User Search
+  </a>
+</div>
+{% endblock %}

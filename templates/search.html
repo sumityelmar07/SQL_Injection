@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}User Search{% endblock %}
+
+{% block content %}
+<div class="card">
+  <h2>User Search</h2>
+  <p class="hint">
+    This page is safe to use for demonstration. Try a normal name or an injection
+    payload such as <code>' OR '1'='1</code>. Attacks are detected, blocked, and logged.
+  </p>
+
+  <form method="POST" action="{{ url_for('profile.search') }}" novalidate>
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+    <label for="q">Search username</label>
+    <div class="search-row">
+      <input type="text" id="q" name="q" value="{{ query | e }}" placeholder="e.g. alice">
+      <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+  </form>
+
+  {% if results is defined and results != [] %}
+    <h3>Results ({{ results | length }})</h3>
+    <table class="data-table">
+      <thead><tr><th>Username</th><th>Email</th></tr></thead>
+      <tbody>
+        {% for row in results %}
+          <tr><td>{{ row.username }}</td><td>{{ row.email }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% elif request.method == 'POST' and results is defined %}
+    <p>No users found.</p>
+  {% endif %}
+</div>
+{% endblock %}

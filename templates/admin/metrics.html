@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}ML Metrics{% endblock %}
+
+{% block content %}
+<div class="card">
+  <h2>ML Model Evaluation Metrics</h2>
+
+  {% if metrics %}
+    <p>Evaluated on <strong>{{ metrics.test_samples }}</strong> samples from
+       <strong>{{ metrics.eval_source if metrics.eval_source else "held-out test split" }}</strong>.</p>
+
+    <table class="info-table">
+      <tr><th>Accuracy</th>             <td>{{ "%.4f" % metrics.accuracy }}</td></tr>
+      <tr><th>Precision</th>            <td>{{ "%.4f" % metrics.precision }}</td></tr>
+      <tr><th>Recall</th>               <td>{{ "%.4f" % metrics.recall }}</td></tr>
+      <tr><th>F1 Score</th>             <td>{{ "%.4f" % metrics.f1 }}</td></tr>
+      <tr><th>False-Positive Rate</th>  <td>{{ "%.4f" % (metrics.false_positive_rate or 0) }}</td></tr>
+      <tr><th>ROC-AUC</th>              <td>{{ "%.4f" % metrics.roc_auc }}</td></tr>
+    </table>
+
+    <h3>Confusion Matrix</h3>
+    <p><em>Rows = actual class, Columns = predicted class</em></p>
+    <table class="data-table small">
+      <thead><tr><th></th><th>Predicted Normal</th><th>Predicted Injection</th></tr></thead>
+      <tbody>
+        <tr>
+          <th>Actual Normal</th>
+          <td>{{ metrics.confusion_matrix[0][0] }} (TN)</td>
+          <td>{{ metrics.confusion_matrix[0][1] }} (FP)</td>
+        </tr>
+        <tr>
+          <th>Actual Injection</th>
+          <td>{{ metrics.confusion_matrix[1][0] }} (FN)</td>
+          <td>{{ metrics.confusion_matrix[1][1] }} (TP)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="explainer">
+      <strong>What these numbers mean:</strong>
+      <ul>
+        <li><strong>Precision</strong>: of all inputs the model flagged as injection, this fraction were actually injections. High precision = few false alarms.</li>
+        <li><strong>Recall</strong>: of all actual injections in the test set, the model caught this fraction. High recall = few missed attacks.</li>
+        <li><strong>F1</strong>: harmonic mean of precision and recall — a single number summarising both.</li>
+        <li><strong>False-Positive Rate</strong>: fraction of legitimate inputs wrongly flagged as injection. Low FPR means fewer innocent users are blocked.</li>
+        <li><strong>ROC-AUC</strong>: how well the model separates the two classes across all thresholds. 1.0 is perfect; 0.5 is random.</li>
+      </ul>
+    </div>
+
+  {% else %}
+    <p>No metrics found. Run <code>python ml/evaluate.py</code> first.</p>
+  {% endif %}
+
+  <a href="{{ url_for('admin.dashboard') }}" class="btn btn-secondary">Back to Dashboard</a>
+</div>
+{% endblock %}

